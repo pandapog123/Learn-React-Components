@@ -1,0 +1,7 @@
+.new-style {
+  background-color: burlywood;
+  color: white;
+  padding: 0.5rem;
+  display: flex;
+  justify-content: center;
+}
